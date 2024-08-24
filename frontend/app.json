@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "pawpal-app",
+    "slug": "snack-89c6b2a8-42e1-47cf-b8c9-906e5c5a9d21",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "An app that helps potential pet identify and locate owners. It also allows pet owner to connect with pet services like vets"
+  }
+}
